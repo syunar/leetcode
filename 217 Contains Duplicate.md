@@ -23,3 +23,5 @@ class Solution(object):
                 hash.add(num)
         return False
 ```
+
+![](assets/20230644-214428.png)
