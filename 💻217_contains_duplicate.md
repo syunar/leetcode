@@ -25,4 +25,4 @@ class Solution(object):
         return False
 ```
 
-![](20230644-214428.png)
+![](attachments/20230644-214428.png)
