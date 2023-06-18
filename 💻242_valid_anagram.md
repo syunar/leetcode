@@ -1,4 +1,3 @@
-#leetcode/arrays 
 
 Given two strings `s` and `t`, return `true` _if_ `t` _is an anagram of_ `s`_, and_ `false` _otherwise_.
 
@@ -31,6 +30,9 @@ class Solution(object):
             if s.count(char) != t.count(char):
                 return False
         return True
+
+print(Solution().isAnagram('rat', 'art'))
+
 ```
 
-[[🌲count char in strings]]
+[[🌲count char in strings]] 
