@@ -35,4 +35,4 @@ print(Solution().isAnagram('rat', 'art'))
 
 ```
 
-[[🌲count char in strings]] 
+[[../🌲count char in strings]] 
