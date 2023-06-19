@@ -24,6 +24,9 @@ class Solution(object):
             else:
                 hash.add(num)
         return False
+
+print(Solution().containsDuplicate([512415, 123]))
+print(Solution().containsDuplicate([123456]))
 ```
 
 ![](attachments/20230644-214428.png)
