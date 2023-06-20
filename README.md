@@ -1,3 +1,3 @@
-g# leetcode
+# leetcode
 ![🏕leetcode](🏕leetcode.md)
 
